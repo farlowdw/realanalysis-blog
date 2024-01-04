@@ -1,0 +1,51 @@
+.heroBanner {
+  padding: 2.5rem 0;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  /* background-color: #0689CF; */
+  background-color: #4634B1;
+}
+
+.checkItOut > span {
+  color: #4634B1 !important;
+  &:hover {
+    color: #000 !important;
+  }
+}
+
+.heroBannerLogo {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+@media screen and (max-width: 966px) {
+  .heroBanner {
+    padding: 2rem;
+  }
+}
+
+.getStarted {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.features {
+  display: flex;
+  align-items: center;
+  padding: 4rem 0;
+  width: 100%;
+}
+
+.featureImage {
+  margin: 0 auto;
+}
+
+.gettingStartedSection {
+  background-color: #f7f7f7;
+}
+
+html[data-theme='dark'] .gettingStartedSection {
+  background-color: #33363b;
+}
