@@ -305,7 +305,6 @@ const config = {
           "csharp",
           "css",
           "csv",
-          "django",
           "docker",
           "editorconfig",
           "ejs",
