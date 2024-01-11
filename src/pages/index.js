@@ -16,7 +16,7 @@ const features = [
   {
     title: 'Walter Rudin',
     content:
-      "Many good resources exist for studying real analysis, but Walter Rudin's \"Principles of Mathematical Analysis\" (affectionately or traumatically known as \"Baby Rudin\") is arguably one of the most elegant. This site is, in part, dedicated to getting the most out of Baby Rudin, something that is difficult or nearly impossibly to do without a guide. Francis Su is our guide, as he has generously provided taped lectures where he covers much of the material in the first seven chapters of the book.",
+      "Many good resources exist for studying real analysis, but Walter Rudin's \"Principles of Mathematical Analysis\" (affectionately or traumatically known as \"Baby Rudin\") is arguably one of the most elegant. This site is, in part, dedicated to getting the most out of Baby Rudin, something that is difficult or nearly impossible to do without a guide. Francis Su is our guide, as he has generously provided taped lectures where he covers much of the material in the first seven chapters of the book.",
   },
   {
     title: 'Open Source',
